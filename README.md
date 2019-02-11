@@ -1,4 +1,4 @@
-%R_tools
+# R_tools
 
 This repository contains miscellaneous tools for R, e.g. for routine package management.
 
